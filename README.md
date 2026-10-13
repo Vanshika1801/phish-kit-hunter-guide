@@ -296,8 +296,8 @@ These numbers come from one run and will be different when you run it on a diffe
 | Pages used for clustering | 200 |
 | Kits found | 34 |
 | Pages that belong to a kit | 121 of 200 |
-| Detection rate on unseen kit pages | XX percent |
-| False positives on normal websites | X out of 21 |
+| Detection rate on unseen kit pages | 43.2 percent |
+| False positives on normal websites | 0 out of 21 |
 
 Screenshots:
 
