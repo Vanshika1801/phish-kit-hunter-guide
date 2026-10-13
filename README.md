@@ -7,7 +7,9 @@ come from the same kit, writes detection rules for each kit, and has a live web 
 anyone can paste a suspicious URL and get a report on who is behind it, when it appeared,
 what it is, and where it sends stolen data.
 
-Author: YOUR NAME
+A simple explanation of the whole project is in Phishing_Kit_Hunter_Explanation.pdf in this repository.
+
+Author: Vanshika Deep
 
 Note: this repository contains documentation only. The full source code is not published here.
 This guide explains the ideas, the design and every step, so you can build your own version.
@@ -299,8 +301,8 @@ These numbers come from one run and will be different when you run it on a diffe
 
 Screenshots:
 
-![Live analyzer](docs/images/analyzer.png)
-![Dashboard](docs/images/dashboard.png)
+![Live analyzer](analyzer.png)
+![Dashboard](dashboard.png)
 
 ## 10. Safety and ethics
 
