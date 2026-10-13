@@ -7,6 +7,8 @@ come from the same kit, writes detection rules for each kit, and has a live web 
 anyone can paste a suspicious URL and get a report on who is behind it, when it appeared,
 what it is, and where it sends stolen data.
 
+Live demo: https://phish-kit-hunter.onrender.com/
+
 A simple explanation of the whole project is in Phishing_Kit_Hunter_Explanation.pdf in this repository.
 
 Author: Vanshika Deep
